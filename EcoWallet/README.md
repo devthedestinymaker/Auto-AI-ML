@@ -71,4 +71,4 @@ We are learning each topic by applying it directly to EcoWallet. Here is how the
 ## 🚀 Getting Started
 
 1. **Data Generation:** Run `python src/data_gen/transaction_data.py` to create your initial dataset.
-2. **Analysis:** Proceed to `src/analysis/` to begin the statistical exploration.
+2. **Exploratory Data Analysis:** From the EcoWallet project directory, run `python src/analysis/eda_analysis.py` to print carbon-footprint descriptive statistics and emissions by category. The distribution chart is saved as `data/carbon_footprint_distribution.png`.

@@ -1,0 +1,1001 @@
+date,merchant,category,amount,emission_factor,carbon_kg
+2025-10-13,McDonalds,Dining & Takeout,49.27,2.0,98.54
+2025-04-09,United,Flights & Travel,47.55,5.0,237.75
+2025-01-30,Local Cafe,Dining & Takeout,55.6,2.0,111.2
+2025-01-03,Microsoft,Subscriptions,58.33,0.7,40.830999999999996
+2024-12-06,Whole Foods,Groceries,27.46,1.2,32.952
+2025-03-11,Delta,Flights & Travel,43.2,5.0,216.0
+2025-09-03,Southwest,Flights & Travel,264.86,5.0,1324.3000000000002
+2025-03-12,Amazon Tech,Electronics,34.37,1.1,37.807
+2025-04-11,Trader Joes,Groceries,22.75,1.2,27.3
+2025-11-12,Con Edison,Utilities & Energy,29.36,2.8,82.208
+2025-04-11,Exxon,Gas & Fuel,34.35,3.5,120.22500000000001
+2025-05-11,McDonalds,Dining & Takeout,22.81,2.0,45.62
+2025-06-02,Chipotle,Dining & Takeout,40.19,2.0,80.38
+2025-05-15,Microsoft,Subscriptions,5.26,0.7,3.6819999999999995
+2024-12-12,Amazon Tech,Electronics,6.0,1.1,6.6000000000000005
+2025-01-22,PG&E,Utilities & Energy,13.55,2.8,37.94
+2025-08-29,Target,Clothing & Apparel,9.88,1.8,17.784000000000002
+2025-05-24,Adobe,Subscriptions,25.03,0.7,17.521
+2025-11-15,McDonalds,Dining & Takeout,16.02,2.0,32.04
+2025-10-24,American,Flights & Travel,13.3,5.0,66.5
+2024-12-30,Delta,Flights & Travel,236.43,5.0,1182.15
+2025-06-02,Uniqlo,Clothing & Apparel,17.15,1.8,30.869999999999997
+2025-10-11,City Transit,Public Transit,21.06,0.4,8.424
+2025-05-28,City Transit,Public Transit,7.41,0.4,2.9640000000000004
+2025-10-29,Nike,Clothing & Apparel,13.72,1.8,24.696
+2025-09-27,Exxon,Gas & Fuel,61.0,3.5,213.5
+2025-02-11,Apple Store,Electronics,8.97,1.1,9.867
+2025-04-07,Spotify,Entertainment,26.13,0.9,23.517
+2025-11-05,City Transit,Public Transit,13.19,0.4,5.276
+2025-03-17,Safeway,Groceries,26.22,1.2,31.464
+2025-06-13,Nike,Clothing & Apparel,13.18,1.8,23.724
+2025-03-08,Amazon Prime,Subscriptions,73.45,0.7,51.415
+2025-04-30,Southwest,Flights & Travel,53.87,5.0,269.34999999999997
+2025-06-10,Best Buy,Electronics,9.58,1.1,10.538
+2025-04-04,Exxon,Gas & Fuel,124.28,3.5,434.98
+2025-09-03,Cinema,Entertainment,8.55,0.9,7.695000000000001
+2025-09-15,Duke Energy,Utilities & Energy,23.25,2.8,65.1
+2025-06-12,City Transit,Public Transit,5.09,0.4,2.036
+2025-01-29,GameStop,Entertainment,7.93,0.9,7.137
+2025-01-05,Whole Foods,Groceries,38.76,1.2,46.51199999999999
+2025-02-06,BP,Gas & Fuel,114.26,3.5,399.91
+2025-09-21,Dominoes,Dining & Takeout,37.98,2.0,75.96
+2025-06-03,Microsoft,Subscriptions,18.52,0.7,12.963999999999999
+2025-08-17,Target,Clothing & Apparel,16.27,1.8,29.286
+2024-11-25,Local Cafe,Dining & Takeout,10.15,2.0,20.3
+2025-04-05,City Transit,Public Transit,12.14,0.4,4.856000000000001
+2025-04-19,PG&E,Utilities & Energy,14.55,2.8,40.74
+2025-07-10,Safeway,Groceries,77.15,1.2,92.58
+2025-08-03,Shell,Gas & Fuel,76.99,3.5,269.465
+2025-10-06,Target,Clothing & Apparel,5.85,1.8,10.53
+2025-09-27,United,Flights & Travel,75.5,5.0,377.5
+2025-05-30,Shell,Gas & Fuel,37.15,3.5,130.025
+2025-09-22,Metro,Public Transit,12.51,0.4,5.0040000000000004
+2024-11-29,Chipotle,Dining & Takeout,54.02,2.0,108.04
+2025-04-26,Delta,Flights & Travel,153.09,5.0,765.45
+2025-03-23,Adobe,Subscriptions,38.55,0.7,26.984999999999996
+2025-01-02,Best Buy,Electronics,11.16,1.1,12.276000000000002
+2025-08-19,Exxon,Gas & Fuel,40.08,3.5,140.28
+2025-10-23,Amazon Tech,Electronics,25.33,1.1,27.863
+2025-02-12,Target,Clothing & Apparel,39.76,1.8,71.568
+2025-09-26,PG&E,Utilities & Energy,14.36,2.8,40.208
+2025-08-23,American,Flights & Travel,45.35,5.0,226.75
+2025-06-12,Metro,Public Transit,9.26,0.4,3.704
+2025-08-11,Best Buy,Electronics,8.69,1.1,9.559000000000001
+2025-03-26,Delta,Flights & Travel,123.04,5.0,615.2
+2025-05-12,Walmart,Groceries,98.0,1.2,117.6
+2025-08-30,United,Flights & Travel,50.8,5.0,254.0
+2024-11-23,McDonalds,Dining & Takeout,73.91,2.0,147.82
+2025-03-17,McDonalds,Dining & Takeout,44.23,2.0,88.46
+2025-05-08,Local Cafe,Dining & Takeout,19.76,2.0,39.52
+2025-03-21,Uniqlo,Clothing & Apparel,25.87,1.8,46.566
+2025-03-09,Spotify,Entertainment,58.95,0.9,53.05500000000001
+2025-09-08,Microsoft,Subscriptions,19.59,0.7,13.713
+2025-03-24,Apple Store,Electronics,60.05,1.1,66.055
+2025-02-25,McDonalds,Dining & Takeout,4.07,2.0,8.14
+2025-10-23,Con Edison,Utilities & Energy,35.71,2.8,99.988
+2025-06-24,Con Edison,Utilities & Energy,21.35,2.8,59.78
+2024-12-17,McDonalds,Dining & Takeout,26.07,2.0,52.14
+2025-06-14,City Transit,Public Transit,21.42,0.4,8.568000000000001
+2025-03-27,United,Flights & Travel,7.48,5.0,37.400000000000006
+2025-08-21,Best Buy,Electronics,17.22,1.1,18.942
+2025-06-24,Chevron,Gas & Fuel,78.03,3.5,273.105
+2025-07-14,Delta,Flights & Travel,239.34,5.0,1196.7
+2025-07-04,Netflix,Entertainment,13.97,0.9,12.573
+2024-12-15,Netflix,Entertainment,11.41,0.9,10.269
+2025-01-06,United,Flights & Travel,33.06,5.0,165.3
+2025-06-16,Apple Store,Electronics,38.12,1.1,41.932
+2025-03-09,PG&E,Utilities & Energy,25.28,2.8,70.78399999999999
+2025-02-12,PG&E,Utilities & Energy,13.86,2.8,38.80799999999999
+2025-06-07,Uniqlo,Clothing & Apparel,28.77,1.8,51.786
+2025-04-15,Duke Energy,Utilities & Energy,21.5,2.8,60.199999999999996
+2025-08-31,Best Buy,Electronics,39.57,1.1,43.527
+2025-02-25,H&M,Clothing & Apparel,12.29,1.8,22.122
+2024-12-19,Amazon Prime,Subscriptions,15.97,0.7,11.179
+2025-08-24,Safeway,Groceries,24.2,1.2,29.04
+2024-12-19,Walmart,Groceries,10.27,1.2,12.324
+2025-07-22,Spotify,Entertainment,24.71,0.9,22.239
+2024-12-19,Netflix,Entertainment,24.11,0.9,21.699
+2025-02-23,Local Cafe,Dining & Takeout,33.25,2.0,66.5
+2024-12-24,Southwest,Flights & Travel,43.18,5.0,215.9
+2025-01-20,Adobe,Subscriptions,7.46,0.7,5.2219999999999995
+2025-09-12,Adobe,Subscriptions,14.96,0.7,10.472
+2025-10-03,Dominoes,Dining & Takeout,25.17,2.0,50.34
+2025-10-22,Amazon Prime,Subscriptions,11.45,0.7,8.014999999999999
+2025-08-14,Metro,Public Transit,17.94,0.4,7.176000000000001
+2025-03-04,City Transit,Public Transit,26.65,0.4,10.66
+2025-04-04,PG&E,Utilities & Energy,75.21,2.8,210.58799999999997
+2025-10-29,Uniqlo,Clothing & Apparel,22.7,1.8,40.86
+2025-04-30,McDonalds,Dining & Takeout,40.69,2.0,81.38
+2025-07-12,Amazon Prime,Subscriptions,19.07,0.7,13.349
+2025-01-10,Local Cafe,Dining & Takeout,7.13,2.0,14.26
+2025-03-09,Cinema,Entertainment,19.72,0.9,17.748
+2025-01-26,City Transit,Public Transit,20.95,0.4,8.38
+2025-03-25,Metro,Public Transit,112.65,0.4,45.06
+2025-02-08,Amazon Tech,Electronics,17.56,1.1,19.316
+2025-11-15,Target,Clothing & Apparel,24.81,1.8,44.658
+2025-10-20,Netflix,Entertainment,19.6,0.9,17.64
+2025-10-27,Cinema,Entertainment,8.86,0.9,7.973999999999999
+2025-10-25,Starbucks,Dining & Takeout,82.62,2.0,165.24
+2025-04-04,McDonalds,Dining & Takeout,60.43,2.0,120.86
+2025-08-30,Chevron,Gas & Fuel,120.43,3.5,421.505
+2025-04-13,Adobe,Subscriptions,10.63,0.7,7.441
+2025-05-14,American,Flights & Travel,222.03,5.0,1110.15
+2025-08-05,Apple Store,Electronics,7.53,1.1,8.283000000000001
+2024-12-16,Dominoes,Dining & Takeout,52.96,2.0,105.92
+2025-04-10,Whole Foods,Groceries,191.02,1.2,229.22400000000002
+2025-05-09,Chevron,Gas & Fuel,20.28,3.5,70.98
+2025-02-10,Amazon Tech,Electronics,13.51,1.1,14.861
+2025-11-16,Duke Energy,Utilities & Energy,21.54,2.8,60.31199999999999
+2024-11-24,McDonalds,Dining & Takeout,22.14,2.0,44.28
+2025-11-08,Shell,Gas & Fuel,11.58,3.5,40.53
+2025-05-28,Amazon Prime,Subscriptions,21.07,0.7,14.748999999999999
+2025-02-03,PG&E,Utilities & Energy,9.55,2.8,26.740000000000002
+2024-12-11,Zara,Clothing & Apparel,27.98,1.8,50.364000000000004
+2024-12-10,City Transit,Public Transit,10.55,0.4,4.220000000000001
+2025-11-04,Delta,Flights & Travel,257.22,5.0,1286.1000000000001
+2025-05-20,GameStop,Entertainment,11.61,0.9,10.449
+2025-10-03,Exxon,Gas & Fuel,39.56,3.5,138.46
+2025-02-11,BP,Gas & Fuel,123.16,3.5,431.06
+2024-12-02,Chevron,Gas & Fuel,15.94,3.5,55.79
+2025-06-18,American,Flights & Travel,68.54,5.0,342.70000000000005
+2025-02-09,Dominoes,Dining & Takeout,94.23,2.0,188.46
+2024-12-09,Best Buy,Electronics,6.52,1.1,7.172
+2025-03-02,Apple Store,Electronics,22.86,1.1,25.146
+2025-04-25,United,Flights & Travel,70.8,5.0,354.0
+2024-12-02,Southwest,Flights & Travel,119.32,5.0,596.5999999999999
+2025-05-07,Nike,Clothing & Apparel,8.45,1.8,15.209999999999999
+2025-04-11,Bus,Public Transit,7.97,0.4,3.188
+2025-08-07,Duke Energy,Utilities & Energy,28.94,2.8,81.032
+2025-08-21,City Transit,Public Transit,24.73,0.4,9.892000000000001
+2025-01-18,H&M,Clothing & Apparel,23.94,1.8,43.092000000000006
+2025-09-13,Nike,Clothing & Apparel,25.6,1.8,46.080000000000005
+2025-01-14,Microsoft,Subscriptions,12.48,0.7,8.735999999999999
+2025-05-15,Metro,Public Transit,23.63,0.4,9.452
+2025-09-26,Netflix,Entertainment,24.66,0.9,22.194
+2025-06-05,Adobe,Subscriptions,12.18,0.7,8.526
+2025-03-30,Costco,Groceries,147.32,1.2,176.784
+2024-11-20,Spotify,Entertainment,27.99,0.9,25.191
+2025-05-25,PG&E,Utilities & Energy,8.72,2.8,24.416
+2025-10-26,Bus,Public Transit,31.8,0.4,12.72
+2025-04-29,Chipotle,Dining & Takeout,15.18,2.0,30.36
+2025-08-06,Uniqlo,Clothing & Apparel,34.85,1.8,62.730000000000004
+2025-05-06,Duke Energy,Utilities & Energy,45.2,2.8,126.56
+2025-04-20,Spotify,Entertainment,11.31,0.9,10.179
+2025-02-26,Duke Energy,Utilities & Energy,39.42,2.8,110.376
+2025-06-02,Chevron,Gas & Fuel,82.5,3.5,288.75
+2025-06-15,Netflix,Entertainment,35.71,0.9,32.139
+2025-04-24,H&M,Clothing & Apparel,75.77,1.8,136.386
+2025-06-28,Amazon Prime,Subscriptions,16.92,0.7,11.844000000000001
+2025-10-21,Metro,Public Transit,11.85,0.4,4.74
+2025-07-04,Amazon Tech,Electronics,10.78,1.1,11.858
+2025-03-09,GameStop,Entertainment,11.35,0.9,10.215
+2025-02-14,Chipotle,Dining & Takeout,31.13,2.0,62.26
+2025-08-10,Microsoft,Subscriptions,25.5,0.7,17.849999999999998
+2025-01-06,American,Flights & Travel,72.0,5.0,360.0
+2025-03-15,United,Flights & Travel,124.86,5.0,624.3
+2024-12-02,Trader Joes,Groceries,33.46,1.2,40.152
+2025-07-21,Adobe,Subscriptions,55.56,0.7,38.891999999999996
+2025-07-11,Duke Energy,Utilities & Energy,16.69,2.8,46.732
+2025-09-10,Southwest,Flights & Travel,828.96,5.0,4144.8
+2025-07-31,PG&E,Utilities & Energy,31.12,2.8,87.136
+2025-02-03,Whole Foods,Groceries,16.68,1.2,20.016
+2025-06-25,United,Flights & Travel,18.71,5.0,93.55000000000001
+2025-11-11,GameStop,Entertainment,28.16,0.9,25.344
+2024-12-15,Spotify,Entertainment,17.18,0.9,15.462
+2025-01-21,Best Buy,Electronics,33.11,1.1,36.421
+2025-07-15,Cinema,Entertainment,27.97,0.9,25.173
+2025-07-04,Amazon Prime,Subscriptions,19.09,0.7,13.363
+2025-08-05,Duke Energy,Utilities & Energy,11.1,2.8,31.08
+2025-07-06,BP,Gas & Fuel,12.0,3.5,42.0
+2025-07-08,H&M,Clothing & Apparel,14.69,1.8,26.442
+2025-10-12,Target,Clothing & Apparel,36.58,1.8,65.844
+2025-07-26,American,Flights & Travel,67.63,5.0,338.15
+2025-07-03,Chipotle,Dining & Takeout,12.22,2.0,24.44
+2025-03-20,Zara,Clothing & Apparel,22.67,1.8,40.806000000000004
+2025-05-02,Netflix,Entertainment,26.3,0.9,23.67
+2025-01-29,Exxon,Gas & Fuel,22.56,3.5,78.96
+2025-06-04,Exxon,Gas & Fuel,63.67,3.5,222.845
+2024-12-22,Con Edison,Utilities & Energy,20.92,2.8,58.576
+2025-05-08,GameStop,Entertainment,9.02,0.9,8.118
+2025-06-20,Trader Joes,Groceries,44.09,1.2,52.908
+2025-06-23,Duke Energy,Utilities & Energy,29.74,2.8,83.27199999999999
+2025-11-11,Walmart,Groceries,78.76,1.2,94.512
+2025-06-02,Best Buy,Electronics,42.0,1.1,46.2
+2025-05-19,Uniqlo,Clothing & Apparel,7.66,1.8,13.788
+2025-06-22,Spotify,Entertainment,10.42,0.9,9.378
+2025-07-27,American,Flights & Travel,91.38,5.0,456.9
+2025-07-01,Best Buy,Electronics,28.78,1.1,31.658000000000005
+2025-06-07,Bus,Public Transit,28.8,0.4,11.520000000000001
+2025-11-02,Duke Energy,Utilities & Energy,297.95,2.8,834.2599999999999
+2025-02-12,Best Buy,Electronics,29.95,1.1,32.945
+2025-10-04,Netflix,Entertainment,44.47,0.9,40.023
+2025-06-09,Amazon Prime,Subscriptions,39.17,0.7,27.419
+2025-10-25,Whole Foods,Groceries,55.76,1.2,66.91199999999999
+2025-10-15,PG&E,Utilities & Energy,16.11,2.8,45.108
+2025-07-14,Shell,Gas & Fuel,116.63,3.5,408.205
+2025-04-02,Con Edison,Utilities & Energy,11.69,2.8,32.732
+2025-03-08,Apple Store,Electronics,17.02,1.1,18.722
+2025-05-11,Con Edison,Utilities & Energy,14.3,2.8,40.04
+2025-06-23,Nike,Clothing & Apparel,21.27,1.8,38.286
+2025-07-18,Walmart,Groceries,210.97,1.2,253.164
+2024-12-16,City Transit,Public Transit,5.44,0.4,2.176
+2025-10-18,McDonalds,Dining & Takeout,57.34,2.0,114.68
+2024-12-05,United,Flights & Travel,10.88,5.0,54.400000000000006
+2024-11-30,Adobe,Subscriptions,14.43,0.7,10.100999999999999
+2025-03-22,BP,Gas & Fuel,162.22,3.5,567.77
+2025-10-28,Local Cafe,Dining & Takeout,34.86,2.0,69.72
+2025-03-11,Amazon Tech,Electronics,9.45,1.1,10.395
+2025-03-31,City Transit,Public Transit,12.17,0.4,4.868
+2025-09-26,Amazon Prime,Subscriptions,32.32,0.7,22.624
+2025-01-17,Chevron,Gas & Fuel,26.3,3.5,92.05
+2025-01-14,Adobe,Subscriptions,23.37,0.7,16.358999999999998
+2025-04-28,Amazon Prime,Subscriptions,20.74,0.7,14.517999999999997
+2025-05-31,Duke Energy,Utilities & Energy,12.73,2.8,35.644
+2025-03-01,Local Cafe,Dining & Takeout,184.04,2.0,368.08
+2025-11-08,Delta,Flights & Travel,102.92,5.0,514.6
+2025-11-11,Target,Clothing & Apparel,4.87,1.8,8.766
+2025-01-20,Adobe,Subscriptions,22.89,0.7,16.023
+2025-05-16,GameStop,Entertainment,12.64,0.9,11.376000000000001
+2025-10-24,City Transit,Public Transit,36.48,0.4,14.591999999999999
+2025-08-06,City Transit,Public Transit,11.53,0.4,4.612
+2025-06-23,Best Buy,Electronics,18.54,1.1,20.394000000000002
+2025-06-29,Bus,Public Transit,28.6,0.4,11.440000000000001
+2025-07-13,BP,Gas & Fuel,129.77,3.5,454.19500000000005
+2025-02-18,Cinema,Entertainment,8.67,0.9,7.803
+2025-10-01,GameStop,Entertainment,15.89,0.9,14.301
+2025-07-16,Duke Energy,Utilities & Energy,14.4,2.8,40.32
+2025-09-19,Zara,Clothing & Apparel,12.71,1.8,22.878000000000004
+2025-03-25,Chipotle,Dining & Takeout,135.96,2.0,271.92
+2025-07-08,Southwest,Flights & Travel,81.86,5.0,409.3
+2025-09-07,Amazon Prime,Subscriptions,8.31,0.7,5.817
+2025-06-02,City Transit,Public Transit,38.19,0.4,15.276
+2025-07-31,City Transit,Public Transit,88.72,0.4,35.488
+2025-07-27,American,Flights & Travel,153.31,5.0,766.55
+2025-04-01,Metro,Public Transit,6.93,0.4,2.7720000000000002
+2025-09-21,Target,Clothing & Apparel,14.31,1.8,25.758000000000003
+2024-11-25,Spotify,Entertainment,48.76,0.9,43.884
+2025-01-02,Southwest,Flights & Travel,26.91,5.0,134.55
+2025-07-28,Spotify,Entertainment,27.4,0.9,24.66
+2025-11-08,Amazon Tech,Electronics,34.54,1.1,37.994
+2025-11-19,Apple Store,Electronics,10.5,1.1,11.55
+2024-11-28,Chipotle,Dining & Takeout,31.58,2.0,63.16
+2025-03-13,Duke Energy,Utilities & Energy,2.08,2.8,5.824
+2025-03-24,Target,Clothing & Apparel,9.81,1.8,17.658
+2025-05-27,Amazon Tech,Electronics,16.83,1.1,18.512999999999998
+2025-08-18,Metro,Public Transit,8.39,0.4,3.3560000000000003
+2025-08-28,Metro,Public Transit,62.97,0.4,25.188000000000002
+2025-11-14,Apple Store,Electronics,7.38,1.1,8.118
+2025-04-25,H&M,Clothing & Apparel,14.76,1.8,26.568
+2025-01-20,American,Flights & Travel,62.22,5.0,311.1
+2025-01-20,Spotify,Entertainment,55.09,0.9,49.581
+2025-02-26,Southwest,Flights & Travel,12.99,5.0,64.95
+2025-04-10,Amazon Prime,Subscriptions,45.34,0.7,31.738
+2025-09-21,Nike,Clothing & Apparel,20.23,1.8,36.414
+2025-02-27,H&M,Clothing & Apparel,10.1,1.8,18.18
+2025-05-23,Chevron,Gas & Fuel,86.67,3.5,303.345
+2024-11-27,Spotify,Entertainment,23.09,0.9,20.781
+2025-04-09,Whole Foods,Groceries,20.49,1.2,24.587999999999997
+2025-08-30,H&M,Clothing & Apparel,21.09,1.8,37.962
+2025-10-12,Best Buy,Electronics,15.34,1.1,16.874000000000002
+2024-11-26,Microsoft,Subscriptions,21.75,0.7,15.225
+2025-07-18,Apple Store,Electronics,31.93,1.1,35.123000000000005
+2025-05-13,Shell,Gas & Fuel,266.67,3.5,933.345
+2025-03-29,Best Buy,Electronics,8.44,1.1,9.284
+2024-12-23,Con Edison,Utilities & Energy,89.4,2.8,250.32
+2024-12-27,Amazon Prime,Subscriptions,5.12,0.7,3.5839999999999996
+2025-11-06,Trader Joes,Groceries,29.33,1.2,35.196
+2025-02-04,Microsoft,Subscriptions,30.32,0.7,21.224
+2025-01-02,Delta,Flights & Travel,72.31,5.0,361.55
+2025-09-01,Duke Energy,Utilities & Energy,12.99,2.8,36.372
+2025-09-21,Adobe,Subscriptions,17.36,0.7,12.152
+2025-08-14,Con Edison,Utilities & Energy,14.22,2.8,39.816
+2025-07-04,Target,Clothing & Apparel,13.3,1.8,23.94
+2025-06-27,Target,Clothing & Apparel,36.41,1.8,65.538
+2025-10-03,Walmart,Groceries,44.06,1.2,52.872
+2025-01-09,United,Flights & Travel,27.31,5.0,136.54999999999998
+2025-04-04,Starbucks,Dining & Takeout,68.01,2.0,136.02
+2025-03-22,Shell,Gas & Fuel,74.24,3.5,259.84
+2025-02-08,Costco,Groceries,63.45,1.2,76.14
+2025-07-08,Microsoft,Subscriptions,31.21,0.7,21.846999999999998
+2025-04-18,Trader Joes,Groceries,17.06,1.2,20.471999999999998
+2025-04-16,Uniqlo,Clothing & Apparel,13.57,1.8,24.426000000000002
+2024-12-26,American,Flights & Travel,115.27,5.0,576.35
+2025-10-06,Amazon Prime,Subscriptions,30.79,0.7,21.552999999999997
+2025-03-01,PG&E,Utilities & Energy,19.79,2.8,55.41199999999999
+2025-08-25,United,Flights & Travel,61.39,5.0,306.95
+2025-04-05,Shell,Gas & Fuel,195.91,3.5,685.685
+2024-12-20,Chevron,Gas & Fuel,30.22,3.5,105.77
+2025-09-20,Microsoft,Subscriptions,29.46,0.7,20.622
+2025-07-02,Dominoes,Dining & Takeout,28.17,2.0,56.34
+2025-11-07,Uniqlo,Clothing & Apparel,17.25,1.8,31.05
+2025-04-08,GameStop,Entertainment,43.34,0.9,39.00600000000001
+2025-07-02,Local Cafe,Dining & Takeout,64.09,2.0,128.18
+2024-12-10,Duke Energy,Utilities & Energy,35.5,2.8,99.39999999999999
+2025-05-04,Microsoft,Subscriptions,50.09,0.7,35.063
+2024-12-03,Starbucks,Dining & Takeout,33.68,2.0,67.36
+2025-10-31,Amazon Prime,Subscriptions,32.37,0.7,22.658999999999995
+2024-11-30,Target,Clothing & Apparel,16.16,1.8,29.088
+2024-12-10,BP,Gas & Fuel,75.5,3.5,264.25
+2025-08-12,Apple Store,Electronics,18.34,1.1,20.174000000000003
+2025-02-20,Microsoft,Subscriptions,21.5,0.7,15.049999999999999
+2025-10-11,Best Buy,Electronics,30.47,1.1,33.517
+2025-07-18,Metro,Public Transit,11.33,0.4,4.532
+2025-05-09,Bus,Public Transit,86.89,0.4,34.756
+2025-01-12,Chevron,Gas & Fuel,19.97,3.5,69.895
+2025-06-18,Apple Store,Electronics,8.59,1.1,9.449
+2025-10-25,Duke Energy,Utilities & Energy,45.18,2.8,126.50399999999999
+2024-12-08,Best Buy,Electronics,34.96,1.1,38.456
+2025-04-30,Zara,Clothing & Apparel,31.09,1.8,55.962
+2025-01-18,Duke Energy,Utilities & Energy,31.18,2.8,87.30399999999999
+2024-11-20,GameStop,Entertainment,19.91,0.9,17.919
+2025-06-19,Trader Joes,Groceries,16.15,1.2,19.38
+2025-08-12,Bus,Public Transit,21.18,0.4,8.472
+2025-08-02,Best Buy,Electronics,12.5,1.1,13.750000000000002
+2025-03-04,Target,Clothing & Apparel,39.75,1.8,71.55
+2025-01-26,Uniqlo,Clothing & Apparel,18.12,1.8,32.616
+2025-11-12,Best Buy,Electronics,11.27,1.1,12.397
+2024-12-04,Adobe,Subscriptions,16.04,0.7,11.227999999999998
+2025-11-18,Chevron,Gas & Fuel,82.51,3.5,288.785
+2025-08-29,Walmart,Groceries,21.09,1.2,25.308
+2025-06-16,Starbucks,Dining & Takeout,17.15,2.0,34.3
+2025-01-17,Best Buy,Electronics,23.82,1.1,26.202
+2025-10-17,BP,Gas & Fuel,69.75,3.5,244.125
+2025-04-18,Cinema,Entertainment,14.09,0.9,12.681000000000001
+2025-06-20,Apple Store,Electronics,14.44,1.1,15.884
+2025-03-24,Amazon Tech,Electronics,23.63,1.1,25.993000000000002
+2025-02-02,PG&E,Utilities & Energy,7.29,2.8,20.412
+2025-09-22,Spotify,Entertainment,7.5,0.9,6.75
+2024-12-25,Uniqlo,Clothing & Apparel,12.15,1.8,21.87
+2025-05-13,Cinema,Entertainment,17.3,0.9,15.57
+2024-11-21,Zara,Clothing & Apparel,24.97,1.8,44.946
+2025-09-16,Amazon Prime,Subscriptions,56.42,0.7,39.494
+2025-07-28,BP,Gas & Fuel,128.72,3.5,450.52
+2025-08-22,Apple Store,Electronics,17.96,1.1,19.756000000000004
+2025-05-09,GameStop,Entertainment,19.82,0.9,17.838
+2025-07-11,City Transit,Public Transit,9.96,0.4,3.9840000000000004
+2025-11-12,Southwest,Flights & Travel,53.6,5.0,268.0
+2025-03-19,PG&E,Utilities & Energy,16.41,2.8,45.948
+2025-05-01,Amazon Tech,Electronics,25.18,1.1,27.698
+2025-06-03,Duke Energy,Utilities & Energy,11.26,2.8,31.528
+2025-10-19,BP,Gas & Fuel,91.78,3.5,321.23
+2024-12-08,Chevron,Gas & Fuel,252.84,3.5,884.94
+2025-01-10,Best Buy,Electronics,18.61,1.1,20.471
+2025-08-16,Best Buy,Electronics,26.61,1.1,29.271
+2025-02-01,Duke Energy,Utilities & Energy,32.56,2.8,91.168
+2025-02-07,Dominoes,Dining & Takeout,24.02,2.0,48.04
+2025-04-04,Bus,Public Transit,23.5,0.4,9.4
+2025-11-09,Duke Energy,Utilities & Energy,20.26,2.8,56.728
+2024-12-31,Bus,Public Transit,21.51,0.4,8.604000000000001
+2025-08-20,Con Edison,Utilities & Energy,11.69,2.8,32.732
+2025-10-06,Amazon Tech,Electronics,20.43,1.1,22.473000000000003
+2024-12-08,Adobe,Subscriptions,28.46,0.7,19.922
+2025-03-20,H&M,Clothing & Apparel,55.47,1.8,99.846
+2025-01-05,PG&E,Utilities & Energy,39.31,2.8,110.068
+2025-10-10,Dominoes,Dining & Takeout,185.41,2.0,370.82
+2025-02-13,Nike,Clothing & Apparel,11.74,1.8,21.132
+2024-12-13,City Transit,Public Transit,36.99,0.4,14.796000000000001
+2025-04-19,Metro,Public Transit,22.84,0.4,9.136000000000001
+2025-06-28,Exxon,Gas & Fuel,487.75,3.5,1707.125
+2025-08-18,Duke Energy,Utilities & Energy,11.41,2.8,31.947999999999997
+2025-11-04,Exxon,Gas & Fuel,23.58,3.5,82.53
+2025-02-17,Local Cafe,Dining & Takeout,20.5,2.0,41.0
+2025-06-03,Amazon Prime,Subscriptions,4.54,0.7,3.178
+2025-03-23,Amazon Tech,Electronics,13.9,1.1,15.290000000000001
+2025-02-01,Southwest,Flights & Travel,25.56,5.0,127.8
+2025-10-12,Uniqlo,Clothing & Apparel,22.32,1.8,40.176
+2025-03-30,Costco,Groceries,43.53,1.2,52.236
+2025-04-16,Spotify,Entertainment,74.69,0.9,67.221
+2024-12-27,Apple Store,Electronics,39.07,1.1,42.977000000000004
+2025-09-16,Uniqlo,Clothing & Apparel,13.41,1.8,24.138
+2025-11-08,Uniqlo,Clothing & Apparel,10.71,1.8,19.278000000000002
+2025-04-23,Southwest,Flights & Travel,89.29,5.0,446.45000000000005
+2025-07-25,Starbucks,Dining & Takeout,11.52,2.0,23.04
+2025-06-03,Microsoft,Subscriptions,72.39,0.7,50.672999999999995
+2025-09-10,Zara,Clothing & Apparel,45.86,1.8,82.548
+2024-12-01,Con Edison,Utilities & Energy,14.46,2.8,40.488
+2024-11-24,Amazon Prime,Subscriptions,6.05,0.7,4.234999999999999
+2024-12-15,Amazon Prime,Subscriptions,51.82,0.7,36.274
+2025-08-01,H&M,Clothing & Apparel,18.54,1.8,33.372
+2025-09-26,City Transit,Public Transit,47.77,0.4,19.108
+2025-10-11,American,Flights & Travel,11.08,5.0,55.4
+2025-11-02,Shell,Gas & Fuel,29.98,3.5,104.93
+2025-10-07,Safeway,Groceries,33.25,1.2,39.9
+2025-07-03,Walmart,Groceries,34.38,1.2,41.256
+2025-05-25,Shell,Gas & Fuel,34.81,3.5,121.83500000000001
+2025-04-20,Bus,Public Transit,31.06,0.4,12.424
+2025-06-20,Exxon,Gas & Fuel,18.77,3.5,65.695
+2025-01-26,Cinema,Entertainment,18.18,0.9,16.362000000000002
+2025-08-18,Cinema,Entertainment,21.85,0.9,19.665000000000003
+2025-02-12,Uniqlo,Clothing & Apparel,28.79,1.8,51.822
+2025-04-20,City Transit,Public Transit,33.05,0.4,13.219999999999999
+2025-07-17,Starbucks,Dining & Takeout,13.47,2.0,26.94
+2025-03-15,Duke Energy,Utilities & Energy,6.86,2.8,19.208
+2025-05-26,Dominoes,Dining & Takeout,92.03,2.0,184.06
+2024-11-27,Target,Clothing & Apparel,25.35,1.8,45.63
+2025-01-22,Apple Store,Electronics,11.89,1.1,13.079000000000002
+2025-10-30,Target,Clothing & Apparel,59.49,1.8,107.08200000000001
+2025-06-03,City Transit,Public Transit,21.78,0.4,8.712000000000002
+2025-10-31,Southwest,Flights & Travel,177.56,5.0,887.8
+2024-12-02,Amazon Prime,Subscriptions,21.06,0.7,14.741999999999997
+2025-05-06,Adobe,Subscriptions,84.99,0.7,59.492999999999995
+2025-10-17,Dominoes,Dining & Takeout,134.86,2.0,269.72
+2025-11-13,Uniqlo,Clothing & Apparel,16.87,1.8,30.366000000000003
+2025-01-18,Shell,Gas & Fuel,144.25,3.5,504.875
+2024-12-09,Uniqlo,Clothing & Apparel,31.56,1.8,56.808
+2025-01-18,Starbucks,Dining & Takeout,98.98,2.0,197.96
+2025-08-22,BP,Gas & Fuel,20.8,3.5,72.8
+2025-07-10,Bus,Public Transit,32.47,0.4,12.988
+2025-11-11,GameStop,Entertainment,42.14,0.9,37.926
+2025-09-16,BP,Gas & Fuel,9.41,3.5,32.935
+2025-10-21,Dominoes,Dining & Takeout,12.85,2.0,25.7
+2025-10-01,Con Edison,Utilities & Energy,4.82,2.8,13.496
+2024-12-06,City Transit,Public Transit,16.63,0.4,6.652
+2025-07-05,Best Buy,Electronics,33.19,1.1,36.509
+2025-05-24,Chipotle,Dining & Takeout,110.15,2.0,220.3
+2025-08-25,City Transit,Public Transit,21.15,0.4,8.459999999999999
+2025-06-11,H&M,Clothing & Apparel,62.8,1.8,113.03999999999999
+2025-01-21,Best Buy,Electronics,7.64,1.1,8.404
+2025-10-25,Delta,Flights & Travel,9.94,5.0,49.699999999999996
+2024-12-15,City Transit,Public Transit,19.32,0.4,7.728000000000001
+2025-01-23,Adobe,Subscriptions,26.28,0.7,18.396
+2024-12-25,Spotify,Entertainment,19.63,0.9,17.666999999999998
+2025-09-16,United,Flights & Travel,6.91,5.0,34.55
+2025-05-07,Shell,Gas & Fuel,49.94,3.5,174.79
+2025-04-10,Exxon,Gas & Fuel,14.81,3.5,51.835
+2025-08-23,H&M,Clothing & Apparel,32.1,1.8,57.78
+2025-01-15,Trader Joes,Groceries,44.4,1.2,53.279999999999994
+2024-11-27,City Transit,Public Transit,10.4,0.4,4.16
+2025-09-17,City Transit,Public Transit,14.02,0.4,5.6080000000000005
+2025-02-17,Nike,Clothing & Apparel,9.57,1.8,17.226000000000003
+2025-01-23,Duke Energy,Utilities & Energy,19.22,2.8,53.815999999999995
+2025-01-17,Dominoes,Dining & Takeout,71.1,2.0,142.2
+2025-07-07,Bus,Public Transit,10.07,0.4,4.0280000000000005
+2025-09-19,Dominoes,Dining & Takeout,49.56,2.0,99.12
+2025-08-04,Delta,Flights & Travel,32.13,5.0,160.65
+2025-10-23,Cinema,Entertainment,11.53,0.9,10.376999999999999
+2025-07-12,Whole Foods,Groceries,30.4,1.2,36.48
+2025-07-23,Con Edison,Utilities & Energy,9.73,2.8,27.244
+2025-11-06,Dominoes,Dining & Takeout,21.27,2.0,42.54
+2025-11-19,Best Buy,Electronics,8.68,1.1,9.548
+2024-12-31,Bus,Public Transit,79.46,0.4,31.784
+2025-02-03,Starbucks,Dining & Takeout,34.06,2.0,68.12
+2025-04-09,Amazon Prime,Subscriptions,12.31,0.7,8.616999999999999
+2025-09-15,Cinema,Entertainment,23.33,0.9,20.997
+2025-06-03,Amazon Prime,Subscriptions,18.57,0.7,12.998999999999999
+2025-04-19,Amazon Tech,Electronics,17.21,1.1,18.931
+2025-09-25,PG&E,Utilities & Energy,30.87,2.8,86.43599999999999
+2025-11-14,Local Cafe,Dining & Takeout,60.7,2.0,121.4
+2025-03-10,Con Edison,Utilities & Energy,13.86,2.8,38.80799999999999
+2025-03-16,Con Edison,Utilities & Energy,13.42,2.8,37.576
+2025-07-10,Con Edison,Utilities & Energy,16.57,2.8,46.396
+2025-01-07,Metro,Public Transit,4.01,0.4,1.604
+2025-04-29,Zara,Clothing & Apparel,6.95,1.8,12.51
+2025-02-06,Best Buy,Electronics,52.29,1.1,57.519000000000005
+2025-01-05,McDonalds,Dining & Takeout,123.47,2.0,246.94
+2025-06-29,Chipotle,Dining & Takeout,27.13,2.0,54.26
+2025-01-25,Netflix,Entertainment,30.07,0.9,27.063000000000002
+2025-09-16,Cinema,Entertainment,24.97,0.9,22.473
+2025-10-29,Dominoes,Dining & Takeout,388.82,2.0,777.64
+2025-05-20,Duke Energy,Utilities & Energy,43.98,2.8,123.14399999999998
+2024-12-16,Target,Clothing & Apparel,18.37,1.8,33.066
+2025-04-28,City Transit,Public Transit,10.29,0.4,4.116
+2025-09-11,Spotify,Entertainment,6.52,0.9,5.867999999999999
+2025-02-07,Best Buy,Electronics,23.16,1.1,25.476000000000003
+2025-01-14,Bus,Public Transit,11.83,0.4,4.732
+2025-05-27,Chipotle,Dining & Takeout,10.61,2.0,21.22
+2025-09-09,Southwest,Flights & Travel,28.6,5.0,143.0
+2025-09-03,Amazon Prime,Subscriptions,9.42,0.7,6.593999999999999
+2025-10-31,Netflix,Entertainment,65.43,0.9,58.88700000000001
+2025-09-27,Nike,Clothing & Apparel,37.23,1.8,67.014
+2025-02-20,Zara,Clothing & Apparel,19.97,1.8,35.946
+2025-05-12,City Transit,Public Transit,56.6,0.4,22.64
+2025-02-20,BP,Gas & Fuel,58.99,3.5,206.465
+2024-12-25,Shell,Gas & Fuel,23.07,3.5,80.745
+2025-01-05,Spotify,Entertainment,58.33,0.9,52.497
+2025-05-31,Con Edison,Utilities & Energy,29.29,2.8,82.01199999999999
+2025-05-13,Chevron,Gas & Fuel,19.35,3.5,67.72500000000001
+2025-04-28,Bus,Public Transit,17.58,0.4,7.032
+2025-09-21,McDonalds,Dining & Takeout,16.44,2.0,32.88
+2025-02-07,Shell,Gas & Fuel,13.7,3.5,47.949999999999996
+2025-10-31,Chipotle,Dining & Takeout,69.47,2.0,138.94
+2025-07-04,Con Edison,Utilities & Energy,76.45,2.8,214.06
+2025-09-26,Apple Store,Electronics,7.55,1.1,8.305
+2025-04-08,Delta,Flights & Travel,95.87,5.0,479.35
+2025-05-15,PG&E,Utilities & Energy,12.74,2.8,35.672
+2025-04-14,Microsoft,Subscriptions,14.28,0.7,9.995999999999999
+2025-08-16,Nike,Clothing & Apparel,13.27,1.8,23.886
+2025-03-12,Duke Energy,Utilities & Energy,10.97,2.8,30.716
+2024-12-18,Trader Joes,Groceries,34.43,1.2,41.315999999999995
+2025-04-23,United,Flights & Travel,23.78,5.0,118.9
+2025-03-30,Zara,Clothing & Apparel,24.27,1.8,43.686
+2025-01-20,Costco,Groceries,31.81,1.2,38.172
+2025-06-28,Exxon,Gas & Fuel,42.99,3.5,150.465
+2025-06-02,Spotify,Entertainment,10.64,0.9,9.576
+2025-08-03,Cinema,Entertainment,13.41,0.9,12.069
+2024-12-26,Duke Energy,Utilities & Energy,34.08,2.8,95.42399999999999
+2024-12-11,PG&E,Utilities & Energy,28.52,2.8,79.856
+2025-07-13,Chipotle,Dining & Takeout,15.15,2.0,30.3
+2025-09-10,Duke Energy,Utilities & Energy,21.53,2.8,60.284
+2025-06-15,Con Edison,Utilities & Energy,33.99,2.8,95.172
+2025-01-17,PG&E,Utilities & Energy,6.24,2.8,17.471999999999998
+2025-05-05,BP,Gas & Fuel,94.01,3.5,329.035
+2025-11-08,City Transit,Public Transit,12.63,0.4,5.0520000000000005
+2025-07-01,Starbucks,Dining & Takeout,52.27,2.0,104.54
+2025-07-01,Microsoft,Subscriptions,11.77,0.7,8.238999999999999
+2025-08-15,Dominoes,Dining & Takeout,7.82,2.0,15.64
+2025-04-27,City Transit,Public Transit,6.43,0.4,2.572
+2025-05-09,Shell,Gas & Fuel,57.29,3.5,200.515
+2025-08-08,Local Cafe,Dining & Takeout,40.76,2.0,81.52
+2025-08-08,American,Flights & Travel,22.1,5.0,110.5
+2025-05-18,Exxon,Gas & Fuel,103.4,3.5,361.90000000000003
+2025-01-11,Chevron,Gas & Fuel,10.37,3.5,36.294999999999995
+2025-03-01,Exxon,Gas & Fuel,51.11,3.5,178.885
+2025-10-21,Starbucks,Dining & Takeout,12.57,2.0,25.14
+2025-10-07,Apple Store,Electronics,12.73,1.1,14.003000000000002
+2025-09-04,Microsoft,Subscriptions,20.76,0.7,14.532
+2025-11-03,Amazon Prime,Subscriptions,11.0,0.7,7.699999999999999
+2025-10-11,Microsoft,Subscriptions,15.35,0.7,10.745
+2025-10-07,City Transit,Public Transit,40.63,0.4,16.252000000000002
+2025-07-03,Dominoes,Dining & Takeout,20.87,2.0,41.74
+2025-07-04,Zara,Clothing & Apparel,36.05,1.8,64.89
+2025-09-18,Safeway,Groceries,13.41,1.2,16.092
+2025-08-06,Chipotle,Dining & Takeout,50.59,2.0,101.18
+2025-07-14,Best Buy,Electronics,55.1,1.1,60.61000000000001
+2024-12-19,Metro,Public Transit,3.56,0.4,1.4240000000000002
+2024-12-29,Local Cafe,Dining & Takeout,17.5,2.0,35.0
+2025-09-20,GameStop,Entertainment,30.08,0.9,27.072
+2025-07-14,Amazon Prime,Subscriptions,17.42,0.7,12.194
+2024-12-11,Amazon Tech,Electronics,26.04,1.1,28.644000000000002
+2025-10-19,American,Flights & Travel,29.84,5.0,149.2
+2025-09-25,Amazon Tech,Electronics,21.34,1.1,23.474
+2025-02-05,Costco,Groceries,29.24,1.2,35.087999999999994
+2025-01-11,Bus,Public Transit,45.49,0.4,18.196
+2025-01-02,Spotify,Entertainment,24.0,0.9,21.6
+2024-12-10,Southwest,Flights & Travel,76.52,5.0,382.59999999999997
+2025-07-02,Spotify,Entertainment,15.05,0.9,13.545000000000002
+2025-05-25,Metro,Public Transit,14.28,0.4,5.712
+2025-06-06,Con Edison,Utilities & Energy,14.84,2.8,41.552
+2025-11-02,Adobe,Subscriptions,26.47,0.7,18.528999999999996
+2025-10-09,City Transit,Public Transit,14.96,0.4,5.984000000000001
+2025-05-07,Local Cafe,Dining & Takeout,41.76,2.0,83.52
+2025-11-02,Con Edison,Utilities & Energy,85.87,2.8,240.436
+2025-03-29,Adobe,Subscriptions,36.96,0.7,25.872
+2025-05-09,Local Cafe,Dining & Takeout,25.51,2.0,51.02
+2025-10-25,Chevron,Gas & Fuel,181.49,3.5,635.215
+2025-04-27,PG&E,Utilities & Energy,15.09,2.8,42.251999999999995
+2025-09-20,Chipotle,Dining & Takeout,6.49,2.0,12.98
+2025-09-02,Duke Energy,Utilities & Energy,9.92,2.8,27.776
+2025-05-07,Shell,Gas & Fuel,8.41,3.5,29.435000000000002
+2025-10-16,Duke Energy,Utilities & Energy,15.7,2.8,43.959999999999994
+2025-05-24,Safeway,Groceries,33.61,1.2,40.332
+2025-04-27,Exxon,Gas & Fuel,291.91,3.5,1021.6850000000001
+2025-05-13,Best Buy,Electronics,25.25,1.1,27.775000000000002
+2025-03-15,Exxon,Gas & Fuel,43.86,3.5,153.51
+2024-12-29,Nike,Clothing & Apparel,35.89,1.8,64.602
+2025-08-06,Netflix,Entertainment,4.27,0.9,3.8429999999999995
+2025-10-24,Bus,Public Transit,23.69,0.4,9.476
+2025-01-26,Microsoft,Subscriptions,34.45,0.7,24.115000000000002
+2025-02-06,Exxon,Gas & Fuel,12.45,3.5,43.574999999999996
+2025-11-09,Adobe,Subscriptions,44.73,0.7,31.310999999999996
+2025-07-02,Costco,Groceries,43.41,1.2,52.09199999999999
+2025-05-25,Southwest,Flights & Travel,36.04,5.0,180.2
+2025-09-28,Uniqlo,Clothing & Apparel,31.28,1.8,56.304
+2025-03-19,Spotify,Entertainment,98.44,0.9,88.596
+2025-04-27,Best Buy,Electronics,22.81,1.1,25.091
+2025-05-27,Microsoft,Subscriptions,23.9,0.7,16.729999999999997
+2025-07-14,Uniqlo,Clothing & Apparel,14.56,1.8,26.208000000000002
+2025-08-04,GameStop,Entertainment,11.08,0.9,9.972
+2025-02-10,United,Flights & Travel,125.25,5.0,626.25
+2025-03-28,Costco,Groceries,16.7,1.2,20.04
+2025-05-29,Netflix,Entertainment,21.12,0.9,19.008000000000003
+2025-11-19,Netflix,Entertainment,14.38,0.9,12.942
+2025-04-14,Starbucks,Dining & Takeout,48.58,2.0,97.16
+2025-04-08,Amazon Tech,Electronics,25.37,1.1,27.907000000000004
+2025-02-03,PG&E,Utilities & Energy,41.52,2.8,116.256
+2025-03-13,Apple Store,Electronics,14.06,1.1,15.466000000000001
+2024-12-03,PG&E,Utilities & Energy,16.63,2.8,46.56399999999999
+2025-06-10,Cinema,Entertainment,10.12,0.9,9.107999999999999
+2025-03-20,PG&E,Utilities & Energy,14.72,2.8,41.216
+2025-05-30,Delta,Flights & Travel,79.62,5.0,398.1
+2025-05-02,Chipotle,Dining & Takeout,60.68,2.0,121.36
+2025-02-02,Shell,Gas & Fuel,21.71,3.5,75.985
+2025-04-15,Amazon Tech,Electronics,36.92,1.1,40.612
+2025-01-30,Apple Store,Electronics,51.88,1.1,57.068000000000005
+2025-10-01,Whole Foods,Groceries,46.1,1.2,55.32
+2024-11-29,H&M,Clothing & Apparel,74.72,1.8,134.496
+2025-02-04,GameStop,Entertainment,11.69,0.9,10.520999999999999
+2025-01-15,H&M,Clothing & Apparel,8.4,1.8,15.120000000000001
+2025-04-23,McDonalds,Dining & Takeout,7.98,2.0,15.96
+2025-03-22,Duke Energy,Utilities & Energy,57.24,2.8,160.272
+2025-10-04,Best Buy,Electronics,31.76,1.1,34.93600000000001
+2025-01-15,Amazon Tech,Electronics,19.32,1.1,21.252000000000002
+2025-08-21,Walmart,Groceries,41.43,1.2,49.716
+2025-09-10,United,Flights & Travel,17.72,5.0,88.6
+2025-04-18,PG&E,Utilities & Energy,111.28,2.8,311.584
+2025-09-30,City Transit,Public Transit,21.99,0.4,8.796
+2025-09-08,PG&E,Utilities & Energy,21.68,2.8,60.70399999999999
+2025-10-26,Local Cafe,Dining & Takeout,59.18,2.0,118.36
+2025-05-23,Local Cafe,Dining & Takeout,48.66,2.0,97.32
+2025-08-25,Netflix,Entertainment,23.49,0.9,21.141
+2025-06-07,Best Buy,Electronics,11.55,1.1,12.705000000000002
+2025-10-11,Con Edison,Utilities & Energy,27.94,2.8,78.232
+2025-03-29,Safeway,Groceries,149.25,1.2,179.1
+2024-12-24,City Transit,Public Transit,51.51,0.4,20.604
+2025-10-22,Local Cafe,Dining & Takeout,118.46,2.0,236.92
+2025-05-09,Shell,Gas & Fuel,32.75,3.5,114.625
+2025-05-19,Cinema,Entertainment,10.05,0.9,9.045000000000002
+2025-10-15,BP,Gas & Fuel,48.14,3.5,168.49
+2025-11-11,Amazon Tech,Electronics,20.88,1.1,22.968
+2025-02-21,Shell,Gas & Fuel,163.07,3.5,570.745
+2025-07-12,Safeway,Groceries,8.55,1.2,10.26
+2025-03-03,Trader Joes,Groceries,112.58,1.2,135.096
+2024-12-11,Metro,Public Transit,17.98,0.4,7.192
+2025-08-10,Duke Energy,Utilities & Energy,14.9,2.8,41.72
+2025-07-20,Nike,Clothing & Apparel,9.89,1.8,17.802000000000003
+2025-10-17,American,Flights & Travel,10.43,5.0,52.15
+2025-05-21,Safeway,Groceries,63.98,1.2,76.776
+2025-04-08,Chipotle,Dining & Takeout,35.12,2.0,70.24
+2025-07-01,Duke Energy,Utilities & Energy,8.14,2.8,22.792
+2025-07-03,Con Edison,Utilities & Energy,8.11,2.8,22.708
+2025-02-23,Amazon Tech,Electronics,15.88,1.1,17.468000000000004
+2025-08-01,Bus,Public Transit,64.61,0.4,25.844
+2025-04-05,Dominoes,Dining & Takeout,26.91,2.0,53.82
+2024-12-30,Duke Energy,Utilities & Energy,7.01,2.8,19.627999999999997
+2025-02-20,Cinema,Entertainment,16.91,0.9,15.219000000000001
+2025-05-03,McDonalds,Dining & Takeout,26.62,2.0,53.24
+2025-05-06,Zara,Clothing & Apparel,3.04,1.8,5.472
+2025-07-06,Amazon Prime,Subscriptions,19.34,0.7,13.537999999999998
+2025-06-26,BP,Gas & Fuel,43.34,3.5,151.69
+2025-05-18,Best Buy,Electronics,32.7,1.1,35.970000000000006
+2025-05-19,Microsoft,Subscriptions,73.28,0.7,51.296
+2025-04-09,Whole Foods,Groceries,81.55,1.2,97.86
+2025-10-29,Con Edison,Utilities & Energy,16.64,2.8,46.592
+2025-08-09,Shell,Gas & Fuel,18.06,3.5,63.209999999999994
+2025-02-01,Amazon Prime,Subscriptions,121.67,0.7,85.169
+2025-07-02,Trader Joes,Groceries,34.72,1.2,41.663999999999994
+2024-12-24,American,Flights & Travel,55.36,5.0,276.8
+2025-05-24,Duke Energy,Utilities & Energy,19.75,2.8,55.3
+2024-12-06,Adobe,Subscriptions,23.07,0.7,16.149
+2025-11-02,Apple Store,Electronics,18.16,1.1,19.976000000000003
+2025-05-29,Best Buy,Electronics,13.44,1.1,14.784
+2025-09-09,Chevron,Gas & Fuel,31.6,3.5,110.60000000000001
+2025-06-11,Bus,Public Transit,19.63,0.4,7.852
+2025-04-11,Delta,Flights & Travel,31.71,5.0,158.55
+2024-12-03,BP,Gas & Fuel,26.77,3.5,93.695
+2025-08-12,Duke Energy,Utilities & Energy,21.64,2.8,60.592
+2025-01-19,Zara,Clothing & Apparel,16.8,1.8,30.240000000000002
+2025-11-15,Best Buy,Electronics,57.56,1.1,63.31600000000001
+2025-09-29,Uniqlo,Clothing & Apparel,3.14,1.8,5.652
+2025-03-02,Starbucks,Dining & Takeout,79.3,2.0,158.6
+2024-12-27,Best Buy,Electronics,48.05,1.1,52.855000000000004
+2025-11-20,Best Buy,Electronics,4.71,1.1,5.181
+2025-11-04,Bus,Public Transit,15.8,0.4,6.32
+2025-05-16,Local Cafe,Dining & Takeout,24.6,2.0,49.2
+2025-08-24,Zara,Clothing & Apparel,7.5,1.8,13.5
+2025-02-08,Chevron,Gas & Fuel,25.08,3.5,87.78
+2025-08-07,Delta,Flights & Travel,17.98,5.0,89.9
+2025-03-02,Exxon,Gas & Fuel,314.9,3.5,1102.1499999999999
+2025-07-30,Safeway,Groceries,70.0,1.2,84.0
+2025-08-30,Microsoft,Subscriptions,48.92,0.7,34.244
+2025-07-17,Spotify,Entertainment,33.29,0.9,29.961
+2025-09-29,McDonalds,Dining & Takeout,13.42,2.0,26.84
+2025-04-27,Duke Energy,Utilities & Energy,13.91,2.8,38.948
+2025-07-23,GameStop,Entertainment,28.29,0.9,25.461
+2025-06-17,Adobe,Subscriptions,8.54,0.7,5.977999999999999
+2025-01-23,Bus,Public Transit,33.09,0.4,13.236000000000002
+2024-12-27,Apple Store,Electronics,16.98,1.1,18.678
+2025-11-03,Cinema,Entertainment,15.45,0.9,13.905
+2025-01-24,Spotify,Entertainment,33.04,0.9,29.736
+2025-01-25,Duke Energy,Utilities & Energy,27.41,2.8,76.74799999999999
+2024-12-18,Local Cafe,Dining & Takeout,24.81,2.0,49.62
+2025-02-06,H&M,Clothing & Apparel,45.22,1.8,81.396
+2025-02-10,Bus,Public Transit,9.42,0.4,3.7680000000000002
+2025-03-15,Bus,Public Transit,30.91,0.4,12.364
+2025-04-14,Chipotle,Dining & Takeout,53.22,2.0,106.44
+2025-02-28,Cinema,Entertainment,16.17,0.9,14.553000000000003
+2025-01-23,Target,Clothing & Apparel,25.24,1.8,45.431999999999995
+2025-08-20,Local Cafe,Dining & Takeout,12.17,2.0,24.34
+2025-10-14,Exxon,Gas & Fuel,137.56,3.5,481.46000000000004
+2025-02-15,Amazon Prime,Subscriptions,17.65,0.7,12.354999999999999
+2025-09-25,Bus,Public Transit,13.93,0.4,5.572
+2024-12-11,Whole Foods,Groceries,76.65,1.2,91.98
+2024-12-13,Microsoft,Subscriptions,12.27,0.7,8.588999999999999
+2025-10-19,Southwest,Flights & Travel,13.35,5.0,66.75
+2025-10-02,Costco,Groceries,9.53,1.2,11.435999999999998
+2025-10-07,Cinema,Entertainment,30.7,0.9,27.63
+2025-10-14,Uniqlo,Clothing & Apparel,8.2,1.8,14.76
+2025-03-25,Con Edison,Utilities & Energy,68.6,2.8,192.07999999999998
+2025-07-10,McDonalds,Dining & Takeout,6.26,2.0,12.52
+2025-02-08,Apple Store,Electronics,65.86,1.1,72.44600000000001
+2025-07-25,Best Buy,Electronics,23.28,1.1,25.608000000000004
+2025-05-13,Adobe,Subscriptions,18.77,0.7,13.139
+2025-04-29,Bus,Public Transit,13.72,0.4,5.488
+2025-05-15,PG&E,Utilities & Energy,26.56,2.8,74.368
+2025-05-28,Netflix,Entertainment,19.56,0.9,17.604
+2025-05-02,Southwest,Flights & Travel,164.56,5.0,822.8
+2025-01-21,Uniqlo,Clothing & Apparel,21.76,1.8,39.168000000000006
+2025-03-26,Shell,Gas & Fuel,63.45,3.5,222.07500000000002
+2024-12-15,Uniqlo,Clothing & Apparel,15.57,1.8,28.026
+2025-10-01,PG&E,Utilities & Energy,19.3,2.8,54.04
+2025-02-09,Bus,Public Transit,24.91,0.4,9.964
+2025-04-29,United,Flights & Travel,9.87,5.0,49.349999999999994
+2025-08-02,GameStop,Entertainment,7.82,0.9,7.038
+2025-08-02,Uniqlo,Clothing & Apparel,33.79,1.8,60.822
+2024-12-01,Dominoes,Dining & Takeout,37.97,2.0,75.94
+2025-08-05,Best Buy,Electronics,17.66,1.1,19.426000000000002
+2025-03-10,Microsoft,Subscriptions,20.35,0.7,14.245
+2024-12-14,Safeway,Groceries,43.73,1.2,52.47599999999999
+2025-07-31,Amazon Prime,Subscriptions,13.77,0.7,9.639
+2025-10-30,Apple Store,Electronics,11.65,1.1,12.815000000000001
+2025-08-21,Whole Foods,Groceries,38.73,1.2,46.47599999999999
+2025-06-28,Chevron,Gas & Fuel,20.52,3.5,71.82
+2025-05-26,Con Edison,Utilities & Energy,26.73,2.8,74.844
+2024-12-13,PG&E,Utilities & Energy,6.1,2.8,17.08
+2025-09-07,Spotify,Entertainment,41.28,0.9,37.152
+2025-05-24,Cinema,Entertainment,27.96,0.9,25.164
+2024-12-27,Duke Energy,Utilities & Energy,24.03,2.8,67.28399999999999
+2025-07-08,Cinema,Entertainment,39.96,0.9,35.964
+2025-10-05,Adobe,Subscriptions,64.45,0.7,45.115
+2025-01-24,Dominoes,Dining & Takeout,74.55,2.0,149.1
+2025-05-30,Bus,Public Transit,5.54,0.4,2.216
+2025-05-26,Exxon,Gas & Fuel,15.19,3.5,53.165
+2025-09-24,GameStop,Entertainment,12.97,0.9,11.673
+2025-08-03,Whole Foods,Groceries,33.81,1.2,40.572
+2024-12-09,Chevron,Gas & Fuel,91.62,3.5,320.67
+2025-07-20,GameStop,Entertainment,12.09,0.9,10.881
+2025-02-04,Amazon Prime,Subscriptions,22.89,0.7,16.023
+2025-01-30,Bus,Public Transit,11.84,0.4,4.736
+2025-05-02,BP,Gas & Fuel,29.62,3.5,103.67
+2025-10-01,Target,Clothing & Apparel,7.5,1.8,13.5
+2025-05-11,GameStop,Entertainment,10.52,0.9,9.468
+2025-11-17,Microsoft,Subscriptions,7.8,0.7,5.46
+2025-07-21,Safeway,Groceries,15.17,1.2,18.204
+2025-05-08,Dominoes,Dining & Takeout,76.93,2.0,153.86
+2025-09-14,Nike,Clothing & Apparel,10.33,1.8,18.594
+2025-09-21,Apple Store,Electronics,126.81,1.1,139.491
+2025-10-21,Amazon Prime,Subscriptions,28.37,0.7,19.858999999999998
+2025-03-16,Walmart,Groceries,38.39,1.2,46.068
+2025-07-23,BP,Gas & Fuel,23.14,3.5,80.99000000000001
+2025-02-03,Delta,Flights & Travel,109.98,5.0,549.9
+2025-09-09,Starbucks,Dining & Takeout,20.89,2.0,41.78
+2024-11-29,Apple Store,Electronics,21.88,1.1,24.068
+2025-06-22,BP,Gas & Fuel,706.33,3.5,2472.155
+2025-11-08,Southwest,Flights & Travel,49.6,5.0,248.0
+2025-08-03,Microsoft,Subscriptions,44.9,0.7,31.429999999999996
+2024-12-21,Exxon,Gas & Fuel,27.03,3.5,94.605
+2025-09-03,Bus,Public Transit,19.6,0.4,7.840000000000001
+2025-07-22,GameStop,Entertainment,69.38,0.9,62.442
+2025-04-29,BP,Gas & Fuel,29.17,3.5,102.095
+2025-08-19,Bus,Public Transit,71.43,0.4,28.572000000000003
+2025-05-20,Target,Clothing & Apparel,32.96,1.8,59.328
+2025-07-25,United,Flights & Travel,31.11,5.0,155.55
+2025-04-11,Cinema,Entertainment,31.27,0.9,28.143
+2025-03-15,Zara,Clothing & Apparel,39.68,1.8,71.424
+2025-11-15,Southwest,Flights & Travel,101.68,5.0,508.40000000000003
+2025-05-01,Apple Store,Electronics,6.69,1.1,7.359000000000001
+2025-09-02,Zara,Clothing & Apparel,12.07,1.8,21.726000000000003
+2025-01-21,Amazon Prime,Subscriptions,16.89,0.7,11.823
+2025-08-25,Con Edison,Utilities & Energy,19.07,2.8,53.396
+2025-05-15,Chevron,Gas & Fuel,101.56,3.5,355.46000000000004
+2024-12-11,Nike,Clothing & Apparel,22.75,1.8,40.95
+2025-05-16,Amazon Tech,Electronics,7.89,1.1,8.679
+2025-03-31,Best Buy,Electronics,26.21,1.1,28.831000000000003
+2025-03-03,Cinema,Entertainment,30.8,0.9,27.720000000000002
+2025-09-03,H&M,Clothing & Apparel,29.72,1.8,53.496
+2025-01-14,Amazon Prime,Subscriptions,42.8,0.7,29.959999999999997
+2025-09-16,United,Flights & Travel,125.7,5.0,628.5
+2024-12-15,Spotify,Entertainment,27.7,0.9,24.93
+2025-10-12,Delta,Flights & Travel,50.9,5.0,254.5
+2025-01-10,Con Edison,Utilities & Energy,6.28,2.8,17.584
+2025-07-19,Starbucks,Dining & Takeout,46.7,2.0,93.4
+2024-11-22,Spotify,Entertainment,23.23,0.9,20.907
+2025-06-16,Apple Store,Electronics,24.29,1.1,26.719
+2025-10-19,American,Flights & Travel,15.23,5.0,76.15
+2025-05-03,Nike,Clothing & Apparel,9.42,1.8,16.956
+2025-01-04,Adobe,Subscriptions,41.98,0.7,29.385999999999996
+2025-08-20,Trader Joes,Groceries,32.08,1.2,38.495999999999995
+2025-06-21,Shell,Gas & Fuel,107.93,3.5,377.755
+2025-06-11,Best Buy,Electronics,20.49,1.1,22.539
+2025-04-17,Whole Foods,Groceries,33.91,1.2,40.69199999999999
+2025-04-21,Amazon Prime,Subscriptions,38.74,0.7,27.118
+2025-01-13,Metro,Public Transit,14.0,0.4,5.6000000000000005
+2025-07-10,GameStop,Entertainment,21.48,0.9,19.332
+2025-01-27,GameStop,Entertainment,14.53,0.9,13.077
+2025-04-08,Delta,Flights & Travel,35.36,5.0,176.8
+2025-05-08,BP,Gas & Fuel,40.08,3.5,140.28
+2025-10-17,H&M,Clothing & Apparel,23.46,1.8,42.228
+2024-11-27,Metro,Public Transit,14.37,0.4,5.748
+2025-09-06,United,Flights & Travel,191.67,5.0,958.3499999999999
+2025-09-28,Con Edison,Utilities & Energy,10.74,2.8,30.072
+2025-08-10,City Transit,Public Transit,17.62,0.4,7.048000000000001
+2025-06-13,Starbucks,Dining & Takeout,23.29,2.0,46.58
+2025-01-30,Apple Store,Electronics,55.31,1.1,60.84100000000001
+2025-03-27,Safeway,Groceries,38.75,1.2,46.5
+2025-06-04,Southwest,Flights & Travel,153.22,5.0,766.1
+2025-04-05,Metro,Public Transit,7.1,0.4,2.84
+2025-09-14,Adobe,Subscriptions,24.21,0.7,16.947
+2025-04-02,Bus,Public Transit,37.44,0.4,14.975999999999999
+2025-03-20,Whole Foods,Groceries,35.37,1.2,42.443999999999996
+2025-07-16,H&M,Clothing & Apparel,42.34,1.8,76.212
+2025-06-15,Cinema,Entertainment,13.98,0.9,12.582
+2025-11-08,Chipotle,Dining & Takeout,102.26,2.0,204.52
+2025-05-27,Adobe,Subscriptions,100.41,0.7,70.28699999999999
+2025-03-12,BP,Gas & Fuel,37.98,3.5,132.92999999999998
+2025-02-06,Amazon Tech,Electronics,14.7,1.1,16.17
+2025-09-26,Metro,Public Transit,55.55,0.4,22.22
+2025-11-14,GameStop,Entertainment,60.69,0.9,54.621
+2025-08-22,United,Flights & Travel,32.37,5.0,161.85
+2025-11-03,Adobe,Subscriptions,14.97,0.7,10.479
+2025-08-16,Amazon Tech,Electronics,16.49,1.1,18.139
+2025-11-15,City Transit,Public Transit,7.84,0.4,3.136
+2025-09-04,McDonalds,Dining & Takeout,15.88,2.0,31.76
+2025-08-27,Spotify,Entertainment,9.95,0.9,8.955
+2025-09-09,Spotify,Entertainment,11.73,0.9,10.557
+2025-02-12,Bus,Public Transit,19.6,0.4,7.840000000000001
+2025-07-04,Starbucks,Dining & Takeout,39.94,2.0,79.88
+2025-09-14,Best Buy,Electronics,59.46,1.1,65.406
+2025-08-08,Best Buy,Electronics,9.99,1.1,10.989
+2025-07-10,BP,Gas & Fuel,146.1,3.5,511.34999999999997
+2025-07-11,Adobe,Subscriptions,17.29,0.7,12.102999999999998
+2025-09-02,Amazon Tech,Electronics,19.4,1.1,21.34
+2025-04-26,Costco,Groceries,56.82,1.2,68.184
+2025-03-30,Trader Joes,Groceries,13.49,1.2,16.188
+2025-09-12,McDonalds,Dining & Takeout,44.97,2.0,89.94
+2025-06-24,Bus,Public Transit,22.57,0.4,9.028
+2024-12-22,Netflix,Entertainment,28.35,0.9,25.515
+2024-12-25,Best Buy,Electronics,24.59,1.1,27.049000000000003
+2025-04-15,PG&E,Utilities & Energy,112.02,2.8,313.65599999999995
+2025-01-28,Con Edison,Utilities & Energy,12.85,2.8,35.98
+2025-06-03,Apple Store,Electronics,13.85,1.1,15.235000000000001
+2025-05-31,Local Cafe,Dining & Takeout,20.12,2.0,40.24
+2025-01-27,City Transit,Public Transit,13.61,0.4,5.444
+2025-02-19,GameStop,Entertainment,12.86,0.9,11.574
+2025-08-17,Exxon,Gas & Fuel,179.29,3.5,627.515
+2024-11-21,Safeway,Groceries,103.17,1.2,123.804
+2025-07-15,GameStop,Entertainment,13.47,0.9,12.123000000000001
+2025-08-19,PG&E,Utilities & Energy,11.22,2.8,31.416
+2025-03-26,Apple Store,Electronics,27.94,1.1,30.734000000000005
+2025-02-07,H&M,Clothing & Apparel,13.65,1.8,24.57
+2025-01-16,Costco,Groceries,54.95,1.2,65.94
+2025-09-30,Trader Joes,Groceries,38.95,1.2,46.74
+2025-03-05,McDonalds,Dining & Takeout,9.85,2.0,19.7
+2025-09-20,Costco,Groceries,114.21,1.2,137.052
+2025-09-22,Trader Joes,Groceries,139.31,1.2,167.172
+2024-12-12,Con Edison,Utilities & Energy,13.08,2.8,36.623999999999995
+2025-03-19,Spotify,Entertainment,15.31,0.9,13.779
+2024-12-18,Chevron,Gas & Fuel,72.67,3.5,254.345
+2025-03-19,Microsoft,Subscriptions,25.38,0.7,17.766
+2025-09-11,Amazon Prime,Subscriptions,31.85,0.7,22.294999999999998
+2025-05-03,American,Flights & Travel,407.57,5.0,2037.85
+2025-02-01,Spotify,Entertainment,17.75,0.9,15.975
+2025-06-19,Zara,Clothing & Apparel,11.49,1.8,20.682000000000002
+2024-12-21,Spotify,Entertainment,7.65,0.9,6.885000000000001
+2025-10-06,Duke Energy,Utilities & Energy,12.04,2.8,33.711999999999996
+2025-07-31,Safeway,Groceries,32.25,1.2,38.699999999999996
+2025-10-15,Duke Energy,Utilities & Energy,70.54,2.8,197.512
+2025-05-02,Con Edison,Utilities & Energy,13.98,2.8,39.144
+2025-02-04,Uniqlo,Clothing & Apparel,23.49,1.8,42.282
+2025-02-22,GameStop,Entertainment,19.86,0.9,17.874
+2025-03-23,American,Flights & Travel,179.18,5.0,895.9000000000001
+2025-11-17,BP,Gas & Fuel,683.3,3.5,2391.5499999999997
+2024-12-19,GameStop,Entertainment,13.85,0.9,12.465
+2025-06-21,Spotify,Entertainment,14.26,0.9,12.834
+2025-06-06,American,Flights & Travel,155.11,5.0,775.5500000000001
+2025-03-04,Bus,Public Transit,32.37,0.4,12.948
+2024-12-30,Apple Store,Electronics,73.16,1.1,80.476
+2025-01-06,Spotify,Entertainment,30.23,0.9,27.207
+2024-12-16,Uniqlo,Clothing & Apparel,15.62,1.8,28.116
+2025-10-30,Amazon Prime,Subscriptions,30.37,0.7,21.259
+2024-12-10,Starbucks,Dining & Takeout,80.4,2.0,160.8
+2025-09-16,Spotify,Entertainment,35.67,0.9,32.103
+2025-07-23,American,Flights & Travel,90.67,5.0,453.35
+2025-04-24,Trader Joes,Groceries,77.74,1.2,93.288
+2025-02-25,Dominoes,Dining & Takeout,84.39,2.0,168.78
+2025-03-24,Amazon Prime,Subscriptions,52.85,0.7,36.995
+2025-03-04,PG&E,Utilities & Energy,31.63,2.8,88.564
+2025-08-29,Metro,Public Transit,17.87,0.4,7.148000000000001
+2025-06-02,Amazon Tech,Electronics,22.26,1.1,24.486000000000004
+2025-10-18,Metro,Public Transit,46.74,0.4,18.696
+2025-04-02,Bus,Public Transit,11.34,0.4,4.5360000000000005
+2025-08-01,Best Buy,Electronics,26.0,1.1,28.6
+2025-07-18,City Transit,Public Transit,15.25,0.4,6.1000000000000005
+2025-05-28,Metro,Public Transit,20.49,0.4,8.196
+2024-12-13,Adobe,Subscriptions,49.15,0.7,34.404999999999994
+2025-02-02,Safeway,Groceries,38.59,1.2,46.308
+2025-08-30,Amazon Prime,Subscriptions,20.75,0.7,14.524999999999999
+2025-06-21,H&M,Clothing & Apparel,7.75,1.8,13.950000000000001
+2025-02-28,City Transit,Public Transit,33.86,0.4,13.544
+2025-06-02,Adobe,Subscriptions,31.56,0.7,22.092
+2025-08-02,Cinema,Entertainment,91.31,0.9,82.179
+2025-03-31,Amazon Tech,Electronics,16.19,1.1,17.809000000000005
+2025-10-14,Apple Store,Electronics,23.42,1.1,25.762000000000004
+2025-02-14,City Transit,Public Transit,23.92,0.4,9.568000000000001
+2025-01-30,GameStop,Entertainment,60.6,0.9,54.54
+2025-02-22,Netflix,Entertainment,18.79,0.9,16.911
+2025-08-15,Whole Foods,Groceries,41.4,1.2,49.68
+2025-10-28,Whole Foods,Groceries,53.86,1.2,64.63199999999999
+2025-06-19,Exxon,Gas & Fuel,65.8,3.5,230.29999999999998
+2024-12-24,Shell,Gas & Fuel,34.94,3.5,122.28999999999999
+2025-03-11,GameStop,Entertainment,23.01,0.9,20.709000000000003
+2025-05-30,Walmart,Groceries,78.17,1.2,93.804
+2025-10-12,Microsoft,Subscriptions,9.79,0.7,6.852999999999999
+2025-10-23,Best Buy,Electronics,22.04,1.1,24.244
+2024-11-23,GameStop,Entertainment,12.3,0.9,11.07
+2024-11-26,Walmart,Groceries,86.15,1.2,103.38000000000001
+2025-04-09,Cinema,Entertainment,6.92,0.9,6.228
+2024-11-28,GameStop,Entertainment,13.58,0.9,12.222
+2025-02-19,McDonalds,Dining & Takeout,44.78,2.0,89.56
+2025-08-15,Exxon,Gas & Fuel,261.26,3.5,914.41
+2025-02-26,Amazon Prime,Subscriptions,19.18,0.7,13.425999999999998
+2025-03-29,Metro,Public Transit,13.62,0.4,5.448
+2025-06-11,Chipotle,Dining & Takeout,149.15,2.0,298.3
+2025-06-15,Amazon Tech,Electronics,7.29,1.1,8.019
+2025-03-24,American,Flights & Travel,6.06,5.0,30.299999999999997
+2025-11-05,McDonalds,Dining & Takeout,47.09,2.0,94.18
+2025-01-06,Con Edison,Utilities & Energy,14.13,2.8,39.564
+2025-06-01,GameStop,Entertainment,9.83,0.9,8.847
+2024-12-18,Trader Joes,Groceries,58.36,1.2,70.032
+2025-01-01,Apple Store,Electronics,23.82,1.1,26.202
+2025-10-16,Bus,Public Transit,13.53,0.4,5.412
+2025-01-07,Netflix,Entertainment,8.2,0.9,7.38
+2025-03-17,Southwest,Flights & Travel,130.64,5.0,653.1999999999999
+2025-04-07,Whole Foods,Groceries,55.71,1.2,66.852
+2025-11-05,Target,Clothing & Apparel,18.74,1.8,33.732
+2025-09-04,Trader Joes,Groceries,145.08,1.2,174.096
+2025-04-30,Trader Joes,Groceries,14.07,1.2,16.884
+2025-09-16,BP,Gas & Fuel,11.88,3.5,41.580000000000005
+2024-12-29,H&M,Clothing & Apparel,12.37,1.8,22.266
+2025-09-04,Southwest,Flights & Travel,52.17,5.0,260.85
+2025-11-01,Cinema,Entertainment,23.82,0.9,21.438000000000002
+2025-06-04,Shell,Gas & Fuel,42.9,3.5,150.15
+2025-08-03,City Transit,Public Transit,25.7,0.4,10.280000000000001
+2025-01-09,PG&E,Utilities & Energy,8.36,2.8,23.407999999999998
+2024-12-28,Bus,Public Transit,55.18,0.4,22.072000000000003
+2025-09-30,Microsoft,Subscriptions,18.96,0.7,13.272
+2025-05-06,Safeway,Groceries,80.95,1.2,97.14
+2025-07-08,Best Buy,Electronics,25.53,1.1,28.083000000000002
+2025-05-21,GameStop,Entertainment,27.65,0.9,24.884999999999998
+2025-06-29,BP,Gas & Fuel,96.52,3.5,337.82
+2025-01-02,Microsoft,Subscriptions,27.48,0.7,19.236
+2025-03-26,McDonalds,Dining & Takeout,55.38,2.0,110.76
+2025-04-06,BP,Gas & Fuel,206.26,3.5,721.91
+2025-11-19,BP,Gas & Fuel,66.45,3.5,232.57500000000002
+2025-05-01,City Transit,Public Transit,32.99,0.4,13.196000000000002
+2025-01-05,Safeway,Groceries,30.82,1.2,36.984
+2025-07-05,Metro,Public Transit,55.04,0.4,22.016000000000002
+2025-01-11,Shell,Gas & Fuel,27.76,3.5,97.16000000000001
+2025-02-23,Con Edison,Utilities & Energy,70.86,2.8,198.408
+2025-09-01,GameStop,Entertainment,19.53,0.9,17.577
+2025-01-11,Whole Foods,Groceries,10.54,1.2,12.647999999999998
+2025-05-20,Netflix,Entertainment,21.97,0.9,19.773
+2025-09-21,Microsoft,Subscriptions,12.47,0.7,8.729
+2025-06-05,Safeway,Groceries,64.88,1.2,77.856
+2025-06-19,PG&E,Utilities & Energy,12.72,2.8,35.616
+2025-09-02,United,Flights & Travel,34.95,5.0,174.75
+2025-11-05,PG&E,Utilities & Energy,5.35,2.8,14.979999999999999
+2025-01-30,Zara,Clothing & Apparel,14.63,1.8,26.334000000000003
+2025-04-06,Best Buy,Electronics,3.68,1.1,4.048000000000001
+2024-12-22,BP,Gas & Fuel,11.2,3.5,39.199999999999996
+2025-04-10,Con Edison,Utilities & Energy,34.2,2.8,95.76
+2025-07-25,Chipotle,Dining & Takeout,62.09,2.0,124.18
+2025-03-28,Southwest,Flights & Travel,83.55,5.0,417.75
+2025-09-20,Adobe,Subscriptions,10.21,0.7,7.147
+2025-07-12,Starbucks,Dining & Takeout,31.88,2.0,63.76
+2025-04-24,Costco,Groceries,33.02,1.2,39.624
+2025-05-09,Microsoft,Subscriptions,8.93,0.7,6.2509999999999994
+2025-05-07,Apple Store,Electronics,57.53,1.1,63.28300000000001
+2025-06-28,Adobe,Subscriptions,37.12,0.7,25.983999999999998
+2025-04-22,Bus,Public Transit,17.21,0.4,6.884
+2025-11-10,Southwest,Flights & Travel,56.09,5.0,280.45000000000005
+2025-04-29,BP,Gas & Fuel,67.25,3.5,235.375
+2025-05-02,Uniqlo,Clothing & Apparel,4.81,1.8,8.658
+2025-09-10,American,Flights & Travel,42.64,5.0,213.2
+2025-05-31,Uniqlo,Clothing & Apparel,12.46,1.8,22.428
+2025-05-25,Local Cafe,Dining & Takeout,14.86,2.0,29.72
+2025-03-02,Amazon Prime,Subscriptions,16.5,0.7,11.549999999999999
+2025-02-20,Netflix,Entertainment,70.7,0.9,63.63
+2025-07-14,Southwest,Flights & Travel,103.63,5.0,518.15
+2025-04-18,Dominoes,Dining & Takeout,20.97,2.0,41.94
+2025-10-30,Best Buy,Electronics,29.99,1.1,32.989000000000004
